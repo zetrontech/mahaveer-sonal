@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zetron Tech//Wedding Invitation//EN
+BEGIN:VEVENT
+UID:mahaveer-sonal-panigrahan@zetron
+DTSTAMP:20261125T090000Z
+DTSTART;TZID=Asia/Kolkata:20261211T101500
+DTEND;TZID=Asia/Kolkata:20261211T120000
+SUMMARY:Mahaveer & Sonal - Panigrahan Sanskar
+LOCATION:Pushkar
+END:VEVENT
+BEGIN:VEVENT
+UID:mahaveer-sonal-ashirvad@zetron
+DTSTAMP:20261125T090000Z
+DTSTART;TZID=Asia/Kolkata:20261211T181500
+DTEND;TZID=Asia/Kolkata:20261211T230000
+SUMMARY:Mahaveer & Sonal - Ashirvad Samaroh
+LOCATION:Savitri Valley Resort\, Kharkhedi Road\, Pushkar
+END:VEVENT
+END:VCALENDAR
