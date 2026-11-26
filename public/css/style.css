@@ -1807,3 +1807,7 @@ html[lang="hi"] h1,html[lang="hi"] h2,html[lang="hi"] h3,html[lang="hi"] .sec-ti
 html[lang="hi"] .hero-names__n,html[lang="hi"] .landing-names .n{font-weight:800 !important}
 .portrait .portrait-img{object-position:center 18%}
 .family-foot{flex-wrap:wrap;justify-content:center;text-align:center;max-width:100%;padding-inline:12px}
+
+/* Client request: scroll hint in red, a little bigger */
+.scroll-indicator .scroll-indicator__word{font-size:17px;color:#A5101F;text-shadow:0 0 8px rgba(255,248,230,.95),0 1px 2px rgba(255,248,230,.9)}
+.scroll-indicator .scroll-indicator__arrow{width:40px;height:40px;color:#A5101F;filter:drop-shadow(0 0 5px rgba(255,248,230,.95))}
